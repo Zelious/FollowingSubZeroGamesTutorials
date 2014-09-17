@@ -7,8 +7,8 @@ public class RayCast : MonoBehaviour
 	private float attackRange = 25f;
 	[SerializeField]
 	private float attackImpact = 40f;
-	[SerializeField]
-	private Transform bulletHole;
+	//[SerializeField]
+	//private Transform bulletHole;
 
 	// Debug Variables
 	[SerializeField]
